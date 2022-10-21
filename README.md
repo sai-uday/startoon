@@ -1,6 +1,8 @@
 # startoon
 Startoon Labs Assignment Screen
+
 Tech Stack:HTML,CSS,JS
+
 In the repository startoon folder threre will be css file and javascript
 
 preview on desktop
